@@ -1,4 +1,4 @@
-package org.example.selniumpractice.Tests.pages;
+package com.base;
 
 import org.openqa.selenium.WebDriver;
 
